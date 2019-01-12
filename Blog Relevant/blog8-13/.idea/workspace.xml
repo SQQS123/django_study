@@ -12,6 +12,7 @@
     <session id="-1310461153">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -221,9 +222,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="128" />
-    <option name="y" value="101" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-41" />
+    <option name="y" value="363" />
     <option name="width" value="1766" />
     <option name="height" value="955" />
   </component>
@@ -254,17 +255,6 @@
               <item name="blog8-13" type="462c0819:PsiDirectoryNode" />
               <item name="Like" type="462c0819:PsiDirectoryNode" />
               <item name="templatetags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog8-13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog8-13" type="462c0819:PsiDirectoryNode" />
-              <item name="myapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog8-13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog8-13" type="462c0819:PsiDirectoryNode" />
-              <item name="myapp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,10 +350,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="128" y="101" width="1766" height="955" extended-state="1" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14539006" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3138412" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
